@@ -22,7 +22,8 @@ SoundFile
 tensorboard
 tqdm
 wave
-PySimpleGUI
+FreeSimpleGUI
 sounddevice
 gradio
 noisereduce
+torchfcpe
